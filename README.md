@@ -15,6 +15,5 @@ This repository includes the bachelor's thesis documentation for the **Apartment
 
 The complete thesis is available below:
 
-[📄 **View Bachelor's Thesis (PDF)**](Thesis__Faculty_of_Mathematics_and_Informatics__University_of_Bucharest.pdf)
+[**View Bachelor's Thesis (PDF)**](Thesis__Faculty_of_Mathematics_and_Informatics__University_of_Bucharest.pdf)
 
-[⬇️ Download Bachelor's Thesis](Thesis__Faculty_of_Mathematics_and_Informatics__University_of_Bucharest.pdf)
